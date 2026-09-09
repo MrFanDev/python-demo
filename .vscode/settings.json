@@ -10,5 +10,6 @@
             "source.organizeImports.ruff": "explicit"
         }
     },
-    "ruff.nativeServer": "on"
+    "ruff.nativeServer": "on",
+    "editor.inlineSuggest.enabled": false
 }
